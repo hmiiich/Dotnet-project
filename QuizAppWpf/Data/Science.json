@@ -1,0 +1,12 @@
+{
+  "category": "Science",
+  "questions": [
+    { "question": "What planet is known as the Red Planet?", "answers": ["Venus", "Mars", "Jupiter", "Saturn"], "correctIndex": 1 },
+    { "question": "What gas do humans breathe in to survive?", "answers": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon dioxide"], "correctIndex": 0 },
+    { "question": "What is H2O more commonly known as?", "answers": ["Hydrogen", "Ozone", "Water", "Oxygen"], "correctIndex": 2 },
+    { "question": "What organ pumps blood through the body?", "answers": ["Liver", "Brain", "Heart", "Lungs"], "correctIndex": 2 },
+    { "question": "What force keeps us on the ground?", "answers": ["Magnetism", "Gravity", "Inertia", "Friction"], "correctIndex": 1 },
+    { "question": "What is the process that plants use to make food?", "answers": ["Respiration", "Photosynthesis", "Osmosis", "Transpiration"], "correctIndex": 1 },
+    { "question": "What is the boiling point of water at sea level (°C)?", "answers": ["50", "100", "0", "212"], "correctIndex": 1 }
+  ]
+}

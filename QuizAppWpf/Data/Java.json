@@ -1,0 +1,13 @@
+{
+  "category": "Java",
+  "questions": [
+    { "question": "What is the extension for Java source files?", "answers": [".java", ".jav", ".j", ".js"], "correctIndex": 0 },
+    { "question": "Which keyword is used to inherit a class in Java?", "answers": ["extends", "inherits", "implements", "super"], "correctIndex": 0 },
+    { "question": "What is the default value of a boolean variable in Java?", "answers": ["false", "true", "0", "null"], "correctIndex": 0 },
+    { "question": "Which method is called when a Java program starts?", "answers": ["main", "start", "run", "init"], "correctIndex": 0 },
+    { "question": "What is JVM?", "answers": ["Java Virtual Machine", "Java Variable Manager", "Java Version Manager", "Java Vector Machine"], "correctIndex": 0 },
+    { "question": "Which collection class is synchronized in Java?", "answers": ["Vector", "ArrayList", "LinkedList", "HashSet"], "correctIndex": 0 },
+    { "question": "What is the parent class of all classes in Java?", "answers": ["Object", "Class", "Root", "Base"], "correctIndex": 0 }
+  ]
+}
+

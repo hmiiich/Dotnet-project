@@ -1,0 +1,13 @@
+{
+  "category": "Python",
+  "questions": [
+    { "question": "What is the extension for Python source files?", "answers": [".py", ".pyc", ".pyt", ".python"], "correctIndex": 0 },
+    { "question": "Who created Python?", "answers": ["Guido van Rossum", "Dennis Ritchie", "James Gosling", "Bjarne Stroustrup"], "correctIndex": 0 },
+    { "question": "Which of these is used to define a function in Python?", "answers": ["def", "function", "func", "define"], "correctIndex": 0 },
+    { "question": "What is used for comments in Python?", "answers": ["#", "//", "/*", "<!--"], "correctIndex": 0 },
+    { "question": "Which data type is mutable in Python?", "answers": ["list", "tuple", "string", "int"], "correctIndex": 0 },
+    { "question": "What does PEP stand for in Python?", "answers": ["Python Enhancement Proposal", "Python Extension Protocol", "Python Execution Process", "Python Error Prevention"], "correctIndex": 0 },
+    { "question": "Which keyword is used for inheritance in Python?", "answers": ["class", "extends", "inherits", "super"], "correctIndex": 0 }
+  ]
+}
+

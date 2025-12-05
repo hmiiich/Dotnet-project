@@ -1,0 +1,20 @@
+{
+  "category": "Geography",
+  "questions": [
+    {
+      "question": "What is the capital of Japan?",
+      "answers": ["Tokyo", "Osaka", "Kyoto", "Nara"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which continent is the Sahara Desert located in?",
+      "answers": ["Asia", "Africa", "Australia", "South America"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "answers": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+      "correctIndex": 0
+    }
+  ]
+}

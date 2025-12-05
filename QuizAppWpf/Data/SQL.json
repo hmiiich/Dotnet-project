@@ -1,0 +1,13 @@
+{
+  "category": "SQL",
+  "questions": [
+    { "question": "What does SQL stand for?", "answers": ["Structured Query Language", "Simple Query Language", "Standard Query Language", "Sequential Query Language"], "correctIndex": 0 },
+    { "question": "Which keyword is used to retrieve data from a database?", "answers": ["SELECT", "GET", "FETCH", "RETRIEVE"], "correctIndex": 0 },
+    { "question": "Which clause is used to filter records?", "answers": ["WHERE", "FILTER", "CONDITION", "IF"], "correctIndex": 0 },
+    { "question": "Which keyword is used to sort the result set?", "answers": ["ORDER BY", "SORT BY", "ARRANGE BY", "GROUP BY"], "correctIndex": 0 },
+    { "question": "What is the primary key used for?", "answers": ["Uniquely identify each record", "Sort records", "Filter records", "Join tables"], "correctIndex": 0 },
+    { "question": "Which keyword is used to combine rows from two or more tables?", "answers": ["JOIN", "MERGE", "COMBINE", "UNION"], "correctIndex": 0 },
+    { "question": "Which function returns the number of rows?", "answers": ["COUNT", "SUM", "TOTAL", "NUMBER"], "correctIndex": 0 }
+  ]
+}
+

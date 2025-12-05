@@ -1,0 +1,13 @@
+{
+  "category": "C#",
+  "questions": [
+    { "question": "What does C# stand for?", "answers": ["C Sharp", "C Star", "C Hash", "C Symbol"], "correctIndex": 0 },
+    { "question": "Which keyword is used to define a class in C#?", "answers": ["class", "Class", "CLASS", "define"], "correctIndex": 0 },
+    { "question": "What is the base class for all classes in C#?", "answers": ["Object", "Base", "Root", "System"], "correctIndex": 0 },
+    { "question": "Which access modifier allows access from any assembly?", "answers": ["public", "private", "protected", "internal"], "correctIndex": 0 },
+    { "question": "What is the extension for C# source files?", "answers": [".cs", ".csharp", ".c#", ".cpp"], "correctIndex": 0 },
+    { "question": "Which method is the entry point of a C# console application?", "answers": ["Main", "Start", "Run", "Execute"], "correctIndex": 0 },
+    { "question": "What does LINQ stand for?", "answers": ["Language Integrated Query", "Linear Integrated Query", "List Integrated Query", "Link Integrated Query"], "correctIndex": 0 }
+  ]
+}
+

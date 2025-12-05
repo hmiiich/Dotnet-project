@@ -1,0 +1,20 @@
+{
+  "category": "Science",
+  "questions": [
+    {
+      "question": "What planet is known as the Red Planet?",
+      "answers": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What gas do humans breathe in to survive?",
+      "answers": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon dioxide"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is H2O more commonly known as?",
+      "answers": ["Hydrogen", "Ozone", "Water", "Oxygen"],
+      "correctIndex": 2
+    }
+  ]
+}

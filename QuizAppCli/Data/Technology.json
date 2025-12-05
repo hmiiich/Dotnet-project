@@ -1,0 +1,12 @@
+{
+  "category": "Technology",
+  "questions": [
+    { "question": "Who is known as the father of computers?", "answers": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"], "correctIndex": 0 },
+    { "question": "What does CPU stand for?", "answers": ["Central Programming Unit", "Central Processing Unit", "Computer Personal Unit", "Central Power Unit"], "correctIndex": 1 },
+    { "question": "Which company developed the Android operating system?", "answers": ["Apple", "Google", "Microsoft", "IBM"], "correctIndex": 1 },
+    { "question": "What does the 'www' stand for in a website browser?", "answers": ["World Wide Web", "Web World Wire", "Wide Web World", "World Web Wide"], "correctIndex": 0 },
+    { "question": "What year was the first iPhone released?", "answers": ["2005", "2006", "2007", "2008"], "correctIndex": 2 },
+    { "question": "Which programming language is known for building Android apps?", "answers": ["Kotlin", "Swift", "Python", "Ruby"], "correctIndex": 0 },
+    { "question": "Who owns GitHub?", "answers": ["Apple", "Microsoft", "Amazon", "Meta"], "correctIndex": 1 }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "category": "Literature",
+  "questions": [
+    { "question": "Who wrote 'Romeo and Juliet'?", "answers": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Mark Twain"], "correctIndex": 2 },
+    { "question": "'The Hobbit' is a novel by which author?", "answers": ["J.K. Rowling", "J.R.R. Tolkien", "Stephen King", "Ernest Hemingway"], "correctIndex": 1 },
+    { "question": "In which language was 'Don Quixote' originally written?", "answers": ["French", "Italian", "Spanish", "German"], "correctIndex": 2 },
+    { "question": "Who is the author of '1984'?", "answers": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Orwell Wells"], "correctIndex": 0 },
+    { "question": "What is the surname of the sisters who wrote 'Wuthering Heights' and 'Jane Eyre'?", "answers": ["Brontë", "Austen", "Eliot", "Shelley"], "correctIndex": 0 },
+    { "question": "'The Old Man and the Sea' was written by?", "answers": ["Hemingway", "Fitzgerald", "Huxley", "Faulkner"], "correctIndex": 0 },
+    { "question": "Who created the detective Sherlock Holmes?", "answers": ["Poe", "Arthur Conan Doyle", "Agatha Christie", "Simenon"], "correctIndex": 1 }
+  ]
+}

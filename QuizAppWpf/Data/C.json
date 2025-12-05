@@ -1,0 +1,13 @@
+{
+  "category": "C",
+  "questions": [
+    { "question": "What is the extension for C source files?", "answers": [".c", ".cpp", ".h", ".cs"], "correctIndex": 0 },
+    { "question": "Who created the C programming language?", "answers": ["Dennis Ritchie", "Bjarne Stroustrup", "James Gosling", "Guido van Rossum"], "correctIndex": 0 },
+    { "question": "What does printf stand for?", "answers": ["print formatted", "print file", "print function", "print format"], "correctIndex": 0 },
+    { "question": "Which operator is used to get the address of a variable?", "answers": ["&", "*", "->", "."], "correctIndex": 0 },
+    { "question": "What is the size of an int in C (typically on 32-bit systems)?", "answers": ["4 bytes", "2 bytes", "8 bytes", "1 byte"], "correctIndex": 0 },
+    { "question": "What does malloc stand for?", "answers": ["memory allocation", "memory alloc", "malloc", "memory allocate"], "correctIndex": 0 },
+    { "question": "Which header file is needed for printf?", "answers": ["stdio.h", "stdlib.h", "string.h", "math.h"], "correctIndex": 0 }
+  ]
+}
+

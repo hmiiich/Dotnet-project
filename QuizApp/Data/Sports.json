@@ -1,0 +1,20 @@
+{
+  "category": "Sports",
+  "questions": [
+    {
+      "question": "How many players in a soccer team on the field?",
+      "answers": ["9", "10", "11", "12"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The Olympics are held every how many years?",
+      "answers": ["2", "3", "4", "5"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which sport uses a puck?",
+      "answers": ["Football", "Hockey", "Cricket", "Basketball"],
+      "correctIndex": 1
+    }
+  ]
+}

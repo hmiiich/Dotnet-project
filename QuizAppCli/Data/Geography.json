@@ -1,0 +1,12 @@
+{
+  "category": "Geography",
+  "questions": [
+    { "question": "What is the capital of Japan?", "answers": ["Tokyo", "Osaka", "Kyoto", "Nara"], "correctIndex": 0 },
+    { "question": "Which continent is the Sahara Desert located in?", "answers": ["Asia", "Africa", "Australia", "South America"], "correctIndex": 1 },
+    { "question": "What is the longest river in the world?", "answers": ["Nile", "Amazon", "Yangtze", "Mississippi"], "correctIndex": 0 },
+    { "question": "Which country has the most people?", "answers": ["India", "USA", "China", "Indonesia"], "correctIndex": 2 },
+    { "question": "What is the tallest mountain in the world?", "answers": ["K2", "Kilimanjaro", "Everest", "Denali"], "correctIndex": 2 },
+    { "question": "In which ocean is the island of Madagascar?", "answers": ["Atlantic", "Indian", "Pacific", "Arctic"], "correctIndex": 1 },
+    { "question": "What is Australia's largest city by population?", "answers": ["Melbourne", "Sydney", "Brisbane", "Perth"], "correctIndex": 1 }
+  ]
+}

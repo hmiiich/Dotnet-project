@@ -1,0 +1,12 @@
+{
+  "category": "Sports",
+  "questions": [
+    { "question": "How many players in a soccer team on the field?", "answers": ["9", "10", "11", "12"], "correctIndex": 2 },
+    { "question": "The Olympics are held every how many years?", "answers": ["2", "3", "4", "5"], "correctIndex": 2 },
+    { "question": "Which sport uses a puck?", "answers": ["Football", "Hockey", "Cricket", "Basketball"], "correctIndex": 1 },
+    { "question": "Which country won the FIFA World Cup in 2018?", "answers": ["Germany", "Brazil", "France", "Argentina"], "correctIndex": 2 },
+    { "question": "What is the highest score in a single frame of snooker?", "answers": ["100", "147", "200", "160"], "correctIndex": 1 },
+    { "question": "In tennis, what is a score of zero called?", "answers": ["Nil", "Zero", "Love", "Duck"], "correctIndex": 2 },
+    { "question": "Which sport is known as the 'king of sports'?", "answers": ["Cricket", "Football", "Baseball", "Basketball"], "correctIndex": 1 }
+  ]
+}

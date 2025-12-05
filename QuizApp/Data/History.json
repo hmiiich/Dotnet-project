@@ -1,0 +1,20 @@
+{
+  "category": "History",
+  "questions": [
+    {
+      "question": "Who was the first President of the United States?",
+      "answers": ["Abraham Lincoln", "George Washington", "John Adams", "Thomas Jefferson"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The pyramids were built in which country?",
+      "answers": ["Mexico", "Egypt", "India", "Greece"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Great Wall is located in which country?",
+      "answers": ["Japan", "China", "Mongolia", "India"],
+      "correctIndex": 1
+    }
+  ]
+}

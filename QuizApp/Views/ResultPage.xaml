@@ -1,0 +1,10 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuizApp.Views.ResultPage"
+             Title="Results">
+    <VerticalStackLayout Padding="32" Spacing="26" VerticalOptions="Center">
+        <Label Text="Quiz Complete!" FontSize="30" FontAttributes="Bold" HorizontalOptions="Center"/>
+        <Label Text="{Binding FinalScoreText}" FontSize="60" TextColor="#1B98F5" HorizontalOptions="Center" FontAttributes="Bold"/>
+        <Button Text="Restart" Command="{Binding RestartCommand}" FontSize="22" BackgroundColor="#1B98F5" TextColor="White" Margin="0,28,0,0"/>
+    </VerticalStackLayout>
+</ContentPage>

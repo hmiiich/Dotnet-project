@@ -1,0 +1,20 @@
+{
+  "category": "Technology",
+  "questions": [
+    {
+      "question": "Who is known as the father of computers?",
+      "answers": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What does CPU stand for?",
+      "answers": ["Central Programming Unit", "Central Processing Unit", "Computer Personal Unit", "Central Power Unit"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which company developed the Android operating system?",
+      "answers": ["Apple", "Google", "Microsoft", "IBM"],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <!-- Colors -->
+    <Color x:Key="Primary">#1B98F5</Color>
+    <Color x:Key="Accent">#F8FAFC</Color>
+    <Color x:Key="Correct">#33CC33</Color>
+    <Color x:Key="Incorrect">#FF5252</Color>
+    <Color x:Key="AnswerBg">#FFFFFF</Color>
+
+    <!-- Button Style for Quiz Answers -->
+    <Style x:Key="AnswerButtonStyle" TargetType="Button">
+        <Setter Property="BackgroundColor" Value="{StaticResource AnswerBg}" />
+        <Setter Property="BorderColor" Value="{StaticResource Primary}" />
+        <Setter Property="TextColor" Value="{StaticResource Primary}" />
+        <Setter Property="FontSize" Value="22" />
+        <Setter Property="Padding" Value="14,8" />
+        <Setter Property="CornerRadius" Value="12" />
+        <Setter Property="Margin" Value="0,3,0,3" />
+        <Setter Property="Shadow" Value="10" />
+    </Style>
+
+    <Style TargetType="Button">
+        <Setter Property="FontSize" Value="18" />
+        <Setter Property="BackgroundColor" Value="{StaticResource Primary}" />
+        <Setter Property="TextColor" Value="White" />
+        <Setter Property="CornerRadius" Value="10" />
+        <Setter Property="Padding" Value="12,7" />
+    </Style>
+
+    <Style TargetType="Label">
+        <Setter Property="TextColor" Value="#212121" />
+    </Style>
+</ResourceDictionary>
